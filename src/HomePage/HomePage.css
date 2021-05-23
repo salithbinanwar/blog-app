@@ -1,0 +1,26 @@
+.mainPage{
+    background-image:url('../images/cosmos-5809271_1920.png');
+    color:#ffffff;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    padding: 10%;
+    padding-bottom: 30%;
+
+    margin: 0;
+}
+.pageCreate{
+    color:#ffffff;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    padding: 10%;
+}
+.card-body {
+    color: #ffffff;
+    background-color:;
+}
+.card{
+    background-color:#1F1F27;
+    box-shadow: 2px 5px #2c2c35;
+}

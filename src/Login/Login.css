@@ -1,0 +1,19 @@
+.writing{
+    /* padding:10%; */
+}
+.trembo{
+    padding:10%;
+}
+.postBody{
+    /* padding: 10%; */
+    color: #ffffff;
+    background-image: url(../images/blackBoard.jpg);
+        background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+::placeholder {
+    color: #ffffff;
+    opacity: 1; /* Firefox */
+  }
+  
